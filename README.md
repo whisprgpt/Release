@@ -10,7 +10,7 @@ Welcome to the **official release repository** for **WhisprGPT**, your stealth c
 - 💼 Slack  
 - 🎮 Discord  
 - 🕵️ ProctorU  
-- 🛡️ Respondus  
+- 🛡️ Respondus (Lockdown Browser)
 - 🧠 HackerRank  
 - 📊 CodeSignal  
 - 💻 CoderPad  
