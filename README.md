@@ -36,7 +36,7 @@ For development-related changes or issue tracking, visit the [main development r
 ## 📦 Installation
 
 Check the [Releases](https://github.com/whisprgpt/Release/releases) section for the latest version.  
-We support macOS, Windows, and Linux. Follow the instructions provided with each platform-specific release.
+We support macOS and Windows. Follow the instructions provided with each platform-specific release.
 
 ---
 
