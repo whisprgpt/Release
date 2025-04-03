@@ -4,7 +4,7 @@ Welcome to the **official release repository** for **WhisprGPT**, your stealth c
 
 ## ✅ Works Flawlessly With:
 
-- 💻 Zoom  
+- 💻 Zoom (macOS works under any version of zoom 6)
 - 💬 Microsoft Teams  
 - 📹 Google Meet  
 - 💼 Slack  
