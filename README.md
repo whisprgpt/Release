@@ -9,8 +9,6 @@ Welcome to the **official release repository** for **WhisprGPT**, your stealth c
 - 📹 Google Meet  
 - 💼 Slack  
 - 🎮 Discord  
-- 🕵️ ProctorU  
-- 🛡️ Respondus (Lockdown Browser)
 - 🧠 HackerRank  
 - 📊 CodeSignal  
 - 💻 CoderPad  
